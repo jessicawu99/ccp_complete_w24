@@ -55,8 +55,6 @@ ul{
 }
 
 nav a.current-page {
-    /*background-color: #0a380a;
-    color: #d4e9c2;*/
     text-decoration: underline;
     text-decoration-style: wavy;
     text-decoration-color:rgb(47, 62, 18);
